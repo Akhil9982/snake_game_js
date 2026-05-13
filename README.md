@@ -45,7 +45,7 @@ Key	Action
 ⸻
 
 📦 Installation
-
+```bash
 Clone the repository:
 
 git clone https://github.com/Akhil9982/snake_game_js.git
@@ -82,14 +82,13 @@ snake_game_js/
 │
 ├── src/
 │   ├── main.js
-│   ├── style.css
-│
+│   └──  style.css
 ├── public/
 ├── index.html
 ├── package.json
 ├── vite.config.js
 └── README.md
-
+```
 ⸻
 
 📚 What I Learned
