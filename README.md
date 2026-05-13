@@ -45,39 +45,39 @@ Key	Action
 ⸻
 
 📦 Installation
-```bash
+
 Clone the repository:
-
+```bash
 git clone https://github.com/Akhil9982/snake_game_js.git
-
+```
 Navigate to the project folder:
-
+```bash
 cd snake_game_js
-
+```
 Install dependencies:
-
+```bash
 npm install
-
+```
 Start development server:
-
+```bash
 npm run dev
-
+```
 ⸻
 
 🏗️ Build For Production
-
+```bash
 npm run build
-
+```
 ⸻
 
 🚀 Deploy To GitHub Pages
-
+```bash
 npm run deploy
-
+```
 ⸻
 
 📁 Project Structure
-
+```bash
 snake_game_js/
 │
 ├── src/
